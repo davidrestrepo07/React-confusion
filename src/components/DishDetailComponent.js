@@ -130,7 +130,7 @@ function RenderComments({ comments, postComment, dishId }) {
           }).format(new Date(comment.date))}
           </p>
         </li>
-        </Fade>
+        </Fade> 
       )
     })
     
